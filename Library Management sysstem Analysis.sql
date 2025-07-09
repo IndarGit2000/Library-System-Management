@@ -1,7 +1,5 @@
 -- Library Management System Analysis
 
-USE library;
-
 SELECT * FROM books;
 SELECT * FROM branch;
 SELECT * FROM employee;
