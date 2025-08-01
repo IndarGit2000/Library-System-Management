@@ -180,7 +180,7 @@ Library Management System/
 
 ## 🙋‍♂️ Author
 
-Created by **[Your Name]**  
+Created by **[Indrajit Kulkarni]**  
 For questions or collaborations, feel free to reach out!
 
 ---
